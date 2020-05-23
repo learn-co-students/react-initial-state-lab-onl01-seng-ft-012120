@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2020-05-23T05:27:40.296Z",
-    "end": "2020-05-23T05:27:40.395Z",
-    "duration": 99
+    "start": "2020-05-23T14:07:13.704Z",
+    "end": "2020-05-23T14:07:14.029Z",
+    "duration": 325
   },
   "tests": [
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 2,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "should set the `secondsLeft` to the value of the `initialCount` prop",
       "fullTitle": "<Bomb /> should set the `secondsLeft` to the value of the `initialCount` prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "render the correct text when the timer is 0",
       "fullTitle": "<Bomb /> render the correct text when the timer is 0",
-      "duration": 0,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     }
@@ -52,7 +52,7 @@
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 2,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,7 +66,7 @@
     {
       "title": "should set the `secondsLeft` to the value of the `initialCount` prop",
       "fullTitle": "<Bomb /> should set the `secondsLeft` to the value of the `initialCount` prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "render the correct text when the timer is 0",
       "fullTitle": "<Bomb /> render the correct text when the timer is 0",
-      "duration": 0,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     }
